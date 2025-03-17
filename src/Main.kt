@@ -32,7 +32,10 @@ fun main() {
             "Which of these is NOT a Kotlin keyword?",
             listOf("when", "val", "object", "instanceof"),
             3
-        )
+        ),
+        Question(
+            "Will William Ruto loose come 2027?",
+            listof("Yes", "No")
     )
 
     var score = 0
